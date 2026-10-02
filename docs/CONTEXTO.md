@@ -25,13 +25,14 @@ Manter o site institucional e o portal Vida em Grupo, com desenvolvimento a part
 
 - Acrescentadas exclusões de arquivos locais, bancos, backups, configuração original de hospedagem e chaves privadas.
 - Criado `AGENTS.md` para instruir futuras sessões a ler este contexto.
-- Repositório escolhido: https://github.com/Artguiar/originalli-site.git. Git local inicializado na branch main e remoto origin configurado. Primeiro commit e envio ainda pendentes.
-- Git instalado nesta máquina. A consulta ao repositório remoto foi concluída sem erro e sem referências retornadas (repositório vazio). Autor dos commits configurado como Artguiar; e-mail informado pelo usuário em 02/10/2026.
+- Repositório escolhido: https://github.com/Artguiar/originalli-site.git. Git local inicializado na branch main e remoto origin configurado. Primeiro commit e envio concluídos em 02/10/2026. A branch main acompanha origin/main.
+- Git instalado nesta máquina. A conexão e o primeiro envio ao GitHub foram concluídos com sucesso. Autor dos commits configurado como Artguiar; e-mail informado pelo usuário em 02/10/2026.
 
 ## Retomar em outra máquina
 
 Clone o repositório, instale os requisitos do README e abra esta pasta no Codex. Peça: "Leia AGENTS.md e docs/CONTEXTO.md e retome a etapa pendente".
 
 Antes de começar, baixe as alterações do GitHub. Ao terminar, registre e envie as alterações. Arquivos excluídos pelo Git, credenciais e banco local não acompanham o código e precisam de configuração separada.
+
 
 
